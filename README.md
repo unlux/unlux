@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br>
 
 
-<p align="center"> Stuff I know... </p>
+<p align="center"> Stuff I know... Maybe I know... Just maybe... </p>
 <p align="center"><img src="https://skillicons.dev/icons?i=aws,bash,c,cpp,css,discord,docker,express,figma,gcp,git,github,githubactions,html,js,jest,linux,md,mongodb,neovim,nextjs,nodejs,postgres,postman,powershell,py,react,regex,replit,mysql,svg,tailwind,twitter,ts,vercel,vim,vite,&perline=8&theme=dark"/>
 </p>
 
