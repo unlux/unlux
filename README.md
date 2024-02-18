@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/kindaLakshay/kindaLakshay/main/resources/dino.gif" alt="Chrome Dino">
 <img src="https://raw.githubusercontent.com/kindaLakshay/kindaLakshay/main/resources/banner.png" alt="Hello world">
 <br>
 <h3 align="center">a stupid Backend Developer from India</h3>
