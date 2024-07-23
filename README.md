@@ -9,7 +9,7 @@
 
 
 <p align="center"> Stuff I know... Maybe... Just maybe... </p>
-<p align="center"><img src="https://skillicons.dev/icons?i=aws,bash,c,cpp,css,discord,docker,express,figma,gcp,git,github,githubactions,html,js,jest,linux,md,mongodb,neovim,nextjs,nodejs,postgres,postman,powershell,py,react,regex,replit,mysql,svg,tailwind,twitter,ts,vercel,vim,vite,&perline=8&theme=dark"/>
+<p align="center"><img src="https://skillicons.dev/icons?i=aws,gcp,vercel,nextjs,ts,express,react,tailwind,mongodb,postgres,nodejs,vite,bash,c,cpp,py,docker,git,postman,neovim,vim,linux,md,&perline=8&theme=dark"/>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kindaLakshay&label=Profile%20views&color=0e75b6&style=flat" alt="kindalakshay" /> </p>
